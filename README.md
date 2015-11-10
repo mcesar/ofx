@@ -1,2 +1,2 @@
 # ofx
-OFX Go Library
+OFX Golang Library
